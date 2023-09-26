@@ -1,0 +1,18 @@
+body {
+    background-color: #1ba5f5; 
+}
+
+.container {
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid #ccc;
+    background-color: #fff;
+}
+
+button {
+    background-color: #ffd000; 
+    color: #fff; 
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
